@@ -1,7 +1,7 @@
 Atlas is a web application that provides detailed information about countries around the world. Users can explore country-specific data, including capital, population, interesting facts, and more.
 
 🚀 Live Demo
-🔗 Hosted Link (Replace with your actual hosted URL)
+🔗 Hosted Link (https://atlaswebapp.netlify.app/)
 
 🎯 Features
 🔍 Search for countries by name
