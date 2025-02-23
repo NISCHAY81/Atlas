@@ -17,7 +17,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/atlas-web-app.git
+git clone https://github.com/NISCHAY81/Atlas.git
 cd atlas-web-app
 Install dependencies:
 bash
