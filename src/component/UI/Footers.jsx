@@ -57,7 +57,8 @@ const Footers = () => {
               </li>
               <li>
                 <NavLink
-                  to="/"
+                  to="https://github.com/NISCHAY81/Atlas"
+                  target='blank'
                   
                 >
                   Source Code
